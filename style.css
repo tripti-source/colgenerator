@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 40px;
+    text-align: center;
+
+    h1{
+        font-size: 50px;
+        text-align: center;
+        color: rgb(255, 0, 0);
+    }
+
+    button{
+        padding: 15px 35px;
+        margin: 30px 0px;
+    }
+
+    h3{
+        text-align: center;
+        margin: 20px 0px;
+    }
+}
+
+.color-box{
+    height: 50vh;
+    width: 50vw;
+    border: 10px groove black;
+    margin: auto;
+}
